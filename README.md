@@ -7,7 +7,7 @@ This project is a web application that displays multiple quiz questions using Tr
 Clone the repository using git:
 
 ```
-git clone https://github.com/username/repository.git
+https://github.com/0rigin-c0de/Quiz-app
 ```
 
 ## Usage
